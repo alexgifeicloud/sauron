@@ -4,7 +4,7 @@ Sauron - A Website Change Detector
 ## Installation
 
 1. Install Java 15
-2. Enable less secured apps in Googel GMail
+2. Enable less secured apps in Google GMail
 
 ## Usage
 
