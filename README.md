@@ -1,12 +1,12 @@
 # sauron
 Sauron - A Website Change Detector
 
-# Installation
+## Installation
 
 1. Install Java 15
 2. Enable less secured apps in Googel GMail
 
-# Usage
+## Usage
 
 1. Build the executable: gradle jar
 2. Run the executable:  java -jar sauron.jar
